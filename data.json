@@ -40,7 +40,80 @@
         "specialty": "Psychiatrist",
         "job_description": "Diagnoses and treats mental illnesses and provides therapy and counseling.",
         "image": "https://images.pexels.com/photos/4173249/pexels-photo-4173249.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-      }
-    ]
+      },
+    
+    {
+      "id":6,
+      "name": "Dr. Michelle Anderson",
+      "specialty": "Ophthalmologist",
+      "job_description": "Diagnoses and treats eye diseases and performs eye surgeries.",
+      "image":"https://images.pexels.com/photos/5452201/pexels-photo-5452201.jpeg"
+    },
+    {
+      "id":7,
+      "name": "Dr. Christopher Martinez",
+      "specialty": "Gastroenterologist",
+      "job_description": "Diagnoses and treats diseases and disorders of the digestive system.",
+      "image":"https://images.unsplash.com/photo-1622253692010-333f2da6031d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1964&q=80"
+    },
+    {
+      "id":8,
+      "name": "Dr. Samantha Thompson",
+      "specialty": "Obstetrician-Gynecologist",
+      "job_description": "Provides medical care for women's reproductive health and childbirth.",
+      "image": "https://images.unsplash.com/photo-1594824476967-48c8b964273f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"
+    },
+    {
+      "id":9,
+      "name": "Dr. Benjamin Wilson",
+      "specialty": "Urologist",
+      "job_description": "Diagnoses and treats diseases of the urinary tract in both males and females.",
+      "image": "https://images.unsplash.com/photo-1637059824899-a441006a6875?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1952&q=80"
+    },
+    {
+      "id":10,
+      "name": "Dr. Elizabeth Garcia",
+      "specialty": "Endocrinologist",
+      "job_description": "Diagnoses and treats disorders of the endocrine system and hormone imbalances.",
+      "image": "https://plus.unsplash.com/premium_photo-1661777326990-9dbd5b4d475e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"
+    },
+    {
+      "id":11,
+      "name": "Dr. Jonathan Clark",
+      "specialty": "Rheumatologist",
+      "job_description": "Diagnoses and treats diseases and conditions affecting the joints, muscles, and bones.",
+      "image": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+      "id":12,
+      "name": "Dr. Victoria Nguyen",
+      "specialty": "Otolaryngologist",
+      "job_description": "Diagnoses and treats diseases and disorders of the ear, nose, and throat.",
+      "image": "https://images.unsplash.com/photo-1623854767648-e7bb8009f0db?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"
+    },
+    {
+      "id":13,
+      "name": "Dr. Daniel Wright",
+      "specialty": "Pulmonologist",
+      "job_description": "Diagnoses and treats diseases of the respiratory system, including lungs and airways.",
+      "image": "https://plus.unsplash.com/premium_photo-1661766752153-9f0c3fad728f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+      "id":14,
+      "name": "Dr. Olivia Thompson",
+      "specialty": "Dentist",
+      "job_description": "Provides oral health care, including diagnosing and treating dental problems.",
+      "image": "https://example.com/droliviathompson.jpg"
+    },
+    {
+      "id":15,
+      "name": "Dr. James Harris",
+      "specialty": "General Surgeon",
+      "job_description": "Performs various surgical procedures for a wide range of medical conditions.",
+      "image": ""
+    }
+  ]
+
+
   
-  
+         
