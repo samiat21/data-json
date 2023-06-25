@@ -98,15 +98,9 @@
       "job_description": "Diagnoses and treats diseases of the respiratory system, including lungs and airways.",
       "image": "https://plus.unsplash.com/premium_photo-1661766752153-9f0c3fad728f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
     },
+    
     {
       "id":15,
-      "name": "Dr. Olivia Thompson",
-      "specialty": "Dentist",
-      "job_description": "Provides oral health care, including diagnosing and treating dental problems.",
-      "image": "https://example.com/droliviathompson.jpg"
-    },
-    {
-      "id":16,
       "name": "Dr. James Harris",
       "specialty": "General Surgeon",
       "job_description": "Performs various surgical procedures for a wide range of medical conditions.",
